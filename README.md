@@ -12,4 +12,4 @@ Since the game takes place in a Victorian mansion with puzzles isolated in separ
 
 In the initial iteration of the hint system, the game had a timer, which when crossing a certain treshold (a time specified by the Eye 4 Eye designers on the Unity Editor), prompted the playable character, Hazel, to say some dialogue to nudge the player one step closer to solving the puzzle. Additionally, players were also given control to request for a hint by pressing "__H__" on the keyboard.
 
-After multiple rounds of playtesting, we came to realize that having hints operate on a timer took agency away from the player and re-furbished the timer to display a prompt in the HUD instead. This prompt reminded the player that they can request a hint if needed and allowed the players to learn.
+After multiple rounds of playtesting, we came to realize that having hints operate on a timer took agency away from the player and re-furbished the timer to display a prompt in the HUD instead. This prompt reminded the player that they can request a hint if needed.
